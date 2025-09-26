@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
