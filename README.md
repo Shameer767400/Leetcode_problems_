@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0024-swap-nodes-in-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
