@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0046-permutations) |
 | [0136-single-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0046-permutations) |
 ## Two Pointers
 |  |
 | ------- |
