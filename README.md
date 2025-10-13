@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0225-implement-stack-using-queues) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
