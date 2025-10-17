@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0184-department-highest-salary) |
 | [0607-sales-person](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0607-sales-person) |
 ## Hash Table
 |  |
