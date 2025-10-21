@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0338-counting-bits) |
 ## Database
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -111,10 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0047-permutations-ii) |
+| [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
