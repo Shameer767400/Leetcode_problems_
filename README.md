@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0338-counting-bits) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0051-n-queens) |
+| [0089-gray-code](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0089-gray-code) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0400-nth-digit) |
 ## Matrix
