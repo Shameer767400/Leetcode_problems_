@@ -6,7 +6,6 @@ class Solution {
         backtrack(nums, new ArrayList<>(), used, result);
         return result;
     }
-
     private void backtrack(int[] nums, List<Integer> tempList, boolean[] used, List<List<Integer>> result) {
         if (tempList.size() == nums.length) {
             result.add(new ArrayList<>(tempList));
@@ -16,10 +15,8 @@ class Solution {
         for (int i = 0; i < nums.length; i++) {
             // Skip used elements
             if (used[i]) continue;
-
             // Skip duplicates
             if (i > 0 && nums[i] == nums[i - 1] && !used[i - 1]) continue;
-
             used[i] = true;
             tempList.add(nums[i]);
             backtrack(nums, tempList, used, result);
