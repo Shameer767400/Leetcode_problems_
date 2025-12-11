@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0400-nth-digit) |
@@ -175,4 +178,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
