@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0136-single-number) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0064-minimum-path-sum) |
 | [0097-interleaving-string](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0097-interleaving-string) |
 | [0338-counting-bits](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0338-counting-bits) |
 ## Backtracking
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0064-minimum-path-sum) |
 | [0463-island-perimeter](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0463-island-perimeter) |
 ## Sorting
 |  |
