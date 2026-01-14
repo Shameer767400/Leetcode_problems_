@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
 | [0463-island-perimeter](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0463-island-perimeter) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0093-restore-ip-addresses) |
 ## Two Pointers
