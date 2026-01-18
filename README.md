@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0136-single-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0148-sort-list) |
 ## Tree
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
 ## Binary Search
