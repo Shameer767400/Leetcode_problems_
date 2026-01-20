@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0041-first-missing-positive) |
+| [0076-minimum-window-substring](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
 | [2349-design-a-number-container-system](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2349-design-a-number-container-system) |
 ## String
@@ -62,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0097-interleaving-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0076-minimum-window-substring) |
 ## Stack
 |  |
 | ------- |
