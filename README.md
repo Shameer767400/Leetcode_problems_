@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0097-interleaving-string) |
+| [0392-is-subsequence](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0097-interleaving-string) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0338-counting-bits](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0148-sort-list) |
+| [0392-is-subsequence](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0392-is-subsequence) |
 ## Tree
 |  |
 | ------- |
