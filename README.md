@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0097-interleaving-string) |
 | [0392-is-subsequence](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0148-sort-list) |
 | [0392-is-subsequence](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0844-backspace-string-compare) |
 ## Tree
 |  |
 | ------- |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0844-backspace-string-compare) |
 ## Binary Search Tree
 |  |
 | ------- |
