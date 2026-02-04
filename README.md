@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0097-interleaving-string) |
 | [0392-is-subsequence](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0392-is-subsequence) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0064-minimum-path-sum) |
+| [0091-decode-ways](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0097-interleaving-string) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
