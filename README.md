@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0093-restore-ip-addresses) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0096-unique-binary-search-trees) |
