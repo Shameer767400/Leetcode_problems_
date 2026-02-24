@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0278-first-bad-version) |
 | [0400-nth-digit](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0400-nth-digit) |
 ## Divide and Conquer
 |  |
@@ -324,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0070-climbing-stairs) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
