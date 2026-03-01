@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0020-valid-parentheses) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0042-trapping-rain-water) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0031-next-permutation) |
