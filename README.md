@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0097-interleaving-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0096-unique-binary-search-trees) |
