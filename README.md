@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0090-subsets-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0169-majority-element) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0145-binary-tree-postorder-traversal) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0145-binary-tree-postorder-traversal) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Ordered Set
 |  |
 | ------- |
