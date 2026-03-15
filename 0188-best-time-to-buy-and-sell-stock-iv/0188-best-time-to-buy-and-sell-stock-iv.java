@@ -12,7 +12,6 @@ class Solution {
             }
             return profit;
         }
-
         int[] buy = new int[k + 1];
         int[] sell = new int[k + 1];
 
@@ -25,7 +24,6 @@ class Solution {
                 sell[t] = Math.max(sell[t], buy[t] + price);
             }
         }
-
         return sell[k];
     }
 }
