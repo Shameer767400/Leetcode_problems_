@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0097-interleaving-string) |
+| [0171-excel-sheet-column-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0392-is-subsequence) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0096-unique-binary-search-trees) |
+| [0171-excel-sheet-column-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0400-nth-digit) |
 ## Matrix
