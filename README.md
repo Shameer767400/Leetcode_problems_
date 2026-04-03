@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0326-power-of-three) |
 | [0400-nth-digit](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Matrix
