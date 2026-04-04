@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0400-nth-digit) |
 ## Divide and Conquer
 |  |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0374-guess-number-higher-or-lower) |
 ## Counting
 |  |
 | ------- |
