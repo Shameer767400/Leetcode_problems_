@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0141-linked-list-cycle) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0097-interleaving-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0290-word-pattern) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0096-unique-binary-search-trees) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0326-power-of-three) |
