@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0326-power-of-three) |
 | [0400-nth-digit](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0400-nth-digit) |
