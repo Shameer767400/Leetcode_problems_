@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0283-move-zeroes) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0463-island-perimeter) |
 ## Binary Tree
 |  |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0463-island-perimeter) |
 ## Sorting
 |  |
@@ -450,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0258-add-digits) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
