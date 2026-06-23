@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0085-maximal-rectangle) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0093-restore-ip-addresses) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0093-restore-ip-addresses) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0099-recover-binary-search-tree) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0463-island-perimeter) |
