@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0076-minimum-window-substring) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0060-permutation-sequence) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0067-add-binary) |
