@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0392-is-subsequence) |
 ## Backtracking
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0279-perfect-squares) |
 | [0463-island-perimeter](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0463-island-perimeter) |
 ## Binary Tree
 |  |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0326-power-of-three) |
 | [0400-nth-digit](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0405-convert-a-number-to-hexadecimal) |
