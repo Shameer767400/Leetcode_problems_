@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0463-island-perimeter) |
 | [0500-keyboard-row](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0500-keyboard-row) |
 | [0682-baseball-game](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0682-baseball-game) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0279-perfect-squares) |
 | [0463-island-perimeter](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0463-island-perimeter) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0463-island-perimeter) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0023-merge-k-sorted-lists) |
 | [2349-design-a-number-container-system](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2349-design-a-number-container-system) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -512,4 +516,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
