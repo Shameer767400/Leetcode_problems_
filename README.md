@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0844-backspace-string-compare) |
 ## Linked List
@@ -360,11 +361,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0232-implement-queue-using-stacks) |
 | [2349-design-a-number-container-system](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2349-design-a-number-container-system) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0232-implement-queue-using-stacks) |
 ## Math
 |  |
 | ------- |
