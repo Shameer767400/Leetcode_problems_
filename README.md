@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0198-house-robber) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0174-dungeon-game](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0279-perfect-squares) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0085-maximal-rectangle) |
+| [0174-dungeon-game](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0463-island-perimeter) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3286-find-a-safe-walk-through-a-grid) |
