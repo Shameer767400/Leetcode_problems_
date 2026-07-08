@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0164-maximum-gap) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0455-assign-cookies) |
 ## Memoization
