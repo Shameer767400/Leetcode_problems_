@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0205-isomorphic-strings) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0232-implement-queue-using-stacks) |
@@ -569,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0139-word-break) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
