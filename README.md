@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0500-keyboard-row) |
 | [0682-baseball-game](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0682-baseball-game) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3620-network-recovery-pathways) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0500-keyboard-row) |
 | [2349-design-a-number-container-system](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2349-design-a-number-container-system) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
 | ------- |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0326-power-of-three) |
 | [0400-nth-digit](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0400-nth-digit) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3312-sorted-gcd-pair-queries) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -551,10 +556,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0383-ransom-note) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0258-add-digits) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -587,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Trie
 |  |
