@@ -11,6 +11,5 @@ var filter = function(arr, fn) {
             res.push(arr[i]);
         }
     }
-
     return res;
 };
