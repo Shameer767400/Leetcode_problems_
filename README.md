@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0463-island-perimeter) |
+| [0486-predict-the-winner](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0500-keyboard-row) |
 | [0682-baseball-game](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1260-shift-2d-grid) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0326-power-of-three) |
 | [0400-nth-digit](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0486-predict-the-winner](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -634,4 +638,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3499-maximize-active-section-with-trade-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
