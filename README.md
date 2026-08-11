@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0500-keyboard-row) |
 | [2349-design-a-number-container-system](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2349-design-a-number-container-system) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
