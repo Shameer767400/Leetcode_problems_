@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0149-max-points-on-a-line) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0169-majority-element) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0205-isomorphic-strings) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0189-rotate-array) |
@@ -663,4 +666,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1406-stone-game-iii) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
