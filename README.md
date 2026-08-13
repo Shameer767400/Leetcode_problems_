@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3312-sorted-gcd-pair-queries) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2349-design-a-number-container-system](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2349-design-a-number-container-system) |
 ## Greedy
 |  |
@@ -678,4 +681,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0149-max-points-on-a-line) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
