@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0500-keyboard-row) |
 | [2349-design-a-number-container-system](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2349-design-a-number-container-system) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0076-minimum-window-substring) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
