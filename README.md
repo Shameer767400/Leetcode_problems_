@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3536-maximum-product-of-two-digits) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2029-stone-game-ix) |
 ## Memoization
 |  |
 | ------- |
@@ -604,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0383-ransom-note) |
+| [2029-stone-game-ix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
@@ -664,16 +668,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2029-stone-game-ix) |
 ## Geometry
 |  |
 | ------- |
@@ -690,4 +697,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
