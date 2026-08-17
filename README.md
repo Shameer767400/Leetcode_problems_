@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2029-stone-game-ix) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2029-stone-game-ix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2029-stone-game-ix) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Memoization
 |  |
 | ------- |
