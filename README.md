@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0608-tree-node) |
+| [0620-not-boring-movies](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0627-swap-sex-of-employees) |
 ## Hash Table
 |  |
