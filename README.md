@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1260-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1563-stone-game-v) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0476-number-complement) |
+| [1386-cinema-seat-allocation](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Database
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0500-keyboard-row) |
+| [1386-cinema-seat-allocation](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1386-cinema-seat-allocation) |
 | [2349-design-a-number-container-system](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2349-design-a-number-container-system) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Memoization
