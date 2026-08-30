@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Memoization
 |  |
