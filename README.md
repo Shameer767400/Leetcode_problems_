@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0283-move-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0486-predict-the-winner) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0463-island-perimeter) |
 | [1260-shift-2d-grid](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1260-shift-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0400-nth-digit) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3312-sorted-gcd-pair-queries) |
@@ -561,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0023-merge-k-sorted-lists) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shameer767400/Leetcode_problems_/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shameer767400/Leetcode_problems_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2349-design-a-number-container-system](https://github.com/Shameer767400/Leetcode_problems_/tree/master/2349-design-a-number-container-system) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shameer767400/Leetcode_problems_/tree/master/3286-find-a-safe-walk-through-a-grid) |
